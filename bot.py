@@ -19,7 +19,7 @@ from telegram.ext import (
 # ============================================================
 
 
-TOKEN = os.environ.get("8777801514:AAGlw8BQwQqkwvmtZ0EGMCy-kDyCdlOmkGY")
+TOKEN = os.environ.get("8777801514:AAEc2jkg81LLpYmz4fl7Q6hthFj_lVAHuxg")
 
 # ============================================================
 # SETTINGS
