@@ -705,7 +705,6 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             reply_markup=reply_keyboard
         )
 
-
 # ============================================================
 # MAIN
 # ============================================================
@@ -735,7 +734,9 @@ def start_health_server():
     )
 
     server.serve_forever()
-    def main():
+
+
+def main():
 
     print("=" * 45)
     print("Employee Attendance Telegram Bot")
