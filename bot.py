@@ -18,10 +18,8 @@ from telegram.ext import (
 # TELEGRAM BOT TOKEN
 # ============================================================
 
-import os
 
-TOKEN = os.getenv("8777801514:AAGlw8BQwQqkwvmtZ0EGMCy-kDyCdlOmkGY")
-
+TOKEN = os.environ.get("8777801514:AAGlw8BQwQqkwvmtZ0EGMCy-kDyCdlOmkGY")
 
 # ============================================================
 # SETTINGS
